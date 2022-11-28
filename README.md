@@ -1,13 +1,13 @@
 # 77script
-script was not made by me credits to gosheto imribiy AMITXV catgamerop i dont claim ownership
+Dcript was not made by me credits to gosheto imribiy AMITXV catgamerop i dont claim ownership
 
 its all opensource i only made the script to make it easy for me since i do all of this whenever i install a new custom iso etc
 
-and it makes it easy 
+and it makes the process easier
 
-you use it at ur own risk
+you use it at your own risk
 
-i tested them and everything works good for 
+i tested them and everything works good no issues 
 
 i didnt see any performance loss
 
