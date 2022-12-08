@@ -1,5 +1,5 @@
 # 77script
-Dcript was not made by me credits to gosheto imribiy AMITXV catgamerop i dont claim ownership
+Script was not made by me credits to gosheto imribiy AMITXV catgamerop i dont claim ownership
 
 its all opensource i only made the script to make it easy for me since i do all of this whenever i install a new custom iso etc
 
